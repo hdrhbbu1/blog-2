@@ -1,4 +1,5 @@
 import React from 'react'
+import Link from 'gatsby-link'
 
 // Import typefaces
 import 'typeface-montserrat'
@@ -26,11 +27,12 @@ class Bio extends React.Component {
             height: rhythm(2),
           }}
         />
-        Written by <strong>Krzysztof Żuraw</strong> who lives and works in
-        Wrocław building useful things.{' '}
-        <a href="https://twitter.com/krzysztof_zuraw">
-          You should follow him on Twitter
-        </a>
+        Delivered by{' '}
+        <strong>
+          <Link style={{ boxShadow: 'none' }} to={'/about'}>
+            Krzysztof Żuraw
+          </Link>
+        </strong>. Opinions are my own. You can follow updates via RSS feed.
       </p>
     )
   }

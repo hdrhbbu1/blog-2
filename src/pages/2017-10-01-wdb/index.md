@@ -1,7 +1,7 @@
 ---
 title: Debugging python code with wdb
 date: "2017-10-01T22:12:03.284Z"
-path: "/debugging-python-code-with-wdb/"
+path: "/blog/2017/debugging-python-code-with-wdb.html"
 ---
 
 **While I was on PyConPL conference last year I heard about interesting
