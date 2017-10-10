@@ -32,7 +32,10 @@ class Bio extends React.Component {
           <Link style={{ boxShadow: 'none' }} to={'/about'}>
             Krzysztof Żuraw
           </Link>
-        </strong>. Opinions are my own. You can follow updates via RSS feed.
+        </strong>. Opinions are my own. You can follow updates via{' '}
+        <Link style={{ boxShadow: 'none' }} to={'/rss.xml'}>
+          RSS feed
+        </Link>.
       </p>
     )
   }
