@@ -1,8 +1,10 @@
 import React from 'react'
 import Link from 'gatsby-link'
+import Helmet from 'react-helmet'
 import { Container } from 'react-responsive-grid'
 
 import { rhythm, scale } from '../utils/typography'
+import Analytics from '../components/Analytics'
 
 require(`prismjs/themes/prism.css`)
 
@@ -66,6 +68,7 @@ class Template extends React.Component {
           padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
         }}
       >
+        <Analytics />
         {header}
         {children()}
       </Container>
