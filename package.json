@@ -1,6 +1,6 @@
 {
-  "name": "krzysztof-zuraw-ramblings",
-  "description": "Krzysztof Żuraw Ramblings",
+  "name": "krzysztof-zuraw-blog",
+  "description": "Krzysztof Żuraw Blog",
   "version": "1.0.0",
   "author": "Krzysztof Żuraw <krzysztof.zuraw@gmail.com>",
   "dependencies": {
@@ -34,7 +34,10 @@
   },
   "homepage": "https://krzysztofzuraw.com",
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "blog",
+    "javascript",
+    "python"
   ],
   "license": "MIT",
   "main": "n/a",

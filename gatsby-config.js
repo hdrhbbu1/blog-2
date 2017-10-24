@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'Krzysztof Żuraw Ramblings',
+    title: 'Krzysztof Żuraw Blog',
     author: 'Krzysztof Żuraw',
     siteUrl: `https://krzysztofzuraw.com`,
-    description: `Personal blog (ramblings).`,
+    description: `Personal blog.`,
   },
   plugins: [
     {
