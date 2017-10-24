@@ -56,6 +56,3 @@ If you want to have code example go
 [here](https://github.com/krzysztofzuraw/personal-blog-projects/tree/master/django_nginx_proxy).
 
 That's all for today!
-
-Cover image by [Ritchie Valens](https://unsplash.com/@ritchievalens) on
-[Unsplash](https://unsplash.com/photos/fAMG3PDk830).
