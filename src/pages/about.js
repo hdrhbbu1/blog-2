@@ -1,10 +1,6 @@
 import React from 'react'
 import Helmet from 'react-helmet'
 
-// Import typefaces
-import 'typeface-montserrat'
-import 'typeface-merriweather'
-
 import { rhythm } from '../utils/typography'
 
 class About extends React.Component {
@@ -86,7 +82,7 @@ class About extends React.Component {
             <a href="https://github.com/krzysztofzuraw">Github</a>
           </li>
           <li>
-            krzysztof.zuraw(at)gmail.com or (even better via){' '}
+            krzysztof.zuraw(at)fastmail.com or (even better via){' '}
             <a href="https://keybase.io/encrypt#krzysztofzuraw">Keybase</a>
           </li>
           <li>

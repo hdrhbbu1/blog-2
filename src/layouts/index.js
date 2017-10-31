@@ -35,7 +35,7 @@ class Template extends React.Component {
             }}
             to={'/'}
           >
-            Krzysztof Zuraw Blog
+            Krzysztof Żuraw Blog
           </Link>
         </h1>
       )
@@ -56,7 +56,7 @@ class Template extends React.Component {
             }}
             to={'/'}
           >
-            Krzysztof Zuraw Blog
+            Krzysztof Żuraw Blog
           </Link>
         </h3>
       )

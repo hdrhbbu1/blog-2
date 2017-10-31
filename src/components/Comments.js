@@ -1,9 +1,5 @@
 import React from 'react'
 
-// Import typefaces
-import 'typeface-montserrat'
-import 'typeface-merriweather'
-
 import { rhythm } from '../utils/typography'
 
 class Comments extends React.Component {
@@ -15,7 +11,7 @@ class Comments extends React.Component {
         }}
       >
         I turned off Disqus comments. If you want to give me feeback please
-        write to krzysztof.zuraw(at)gmail.com or use{' '}
+        write to krzysztof.zuraw(at)fastmail.com or use{' '}
         <a href="https://keybase.io/encrypt#krzysztofzuraw">Keybase</a>.
       </p>
     )
