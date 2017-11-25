@@ -21,7 +21,7 @@ mean? It allows a developer to declare what data he or she needs on
 frontend and relay will take care how to fetch it and use it in React
 code.
 
-How to setup Realy in Django
+How to setup Relay in Django
 =============================
 
 In 2 first blog post of this series, I created GraphQL from Django using
