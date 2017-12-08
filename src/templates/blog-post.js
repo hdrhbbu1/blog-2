@@ -8,10 +8,34 @@ import Comments from '../components/Comments'
 import { rhythm, scale } from '../utils/typography'
 
 class BlogPostTemplate extends React.Component {
+  renderTags() {
+    const tagsArray = this.props.data.markdownRemark.frontmatter.tags.map(
+      (tag, index) => {
+        return (
+          <span key={tag}>
+            <Link to={`/tags/${tag}`}>
+              {this.props.data.markdownRemark.frontmatter.tags[index]}
+            </Link>{' '}
+          </span>
+        )
+      }
+    )
+    return (
+      <em
+        style={{
+          ...scale(-1 / 5),
+          display: 'block',
+          marginBottom: rhythm(1),
+        }}
+      >
+        Tagged with {tagsArray}
+      </em>
+    )
+  }
+
   render() {
     const post = this.props.data.markdownRemark
     const siteTitle = get(this.props, 'data.site.siteMetadata.title')
-
     return (
       <div>
         <Helmet title={`${post.frontmatter.title} | ${siteTitle}`} />
@@ -27,6 +51,7 @@ class BlogPostTemplate extends React.Component {
           {post.frontmatter.date}
         </p>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
+        {this.renderTags()}
         <hr
           style={{
             marginBottom: rhythm(1),
@@ -59,6 +84,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
+        tags
         date(formatString: "MMMM DD, YYYY")
       }
     }
