@@ -6,6 +6,7 @@ tags:
     - django
     - python
     - graphql
+readNext: '/blog/2017/django-graphql-react-part-two.html'
 ---
 
 **Hello! Welcome back after a little break - I recently started working

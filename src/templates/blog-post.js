@@ -5,6 +5,7 @@ import get from 'lodash/get'
 
 import Bio from '../components/Bio'
 import Comments from '../components/Comments'
+import BlogSeries from '../components/BlogSeries'
 import { rhythm, scale } from '../utils/typography'
 
 class BlogPostTemplate extends React.Component {
@@ -52,6 +53,10 @@ class BlogPostTemplate extends React.Component {
         </p>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
         {this.renderTags()}
+        <BlogSeries
+          readNext={this.props.data.markdownRemark.frontmatter.readNext}
+          readPrev={this.props.data.markdownRemark.frontmatter.readPrev}
+        />
         <hr
           style={{
             marginBottom: rhythm(1),
@@ -86,6 +91,8 @@ export const pageQuery = graphql`
         title
         tags
         date(formatString: "MMMM DD, YYYY")
+        readNext
+        readPrev
       }
     }
   }
