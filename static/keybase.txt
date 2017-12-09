@@ -6,30 +6,24 @@ I hereby claim:
 
   * I am an admin of https://krzysztofzuraw.com
   * I am krzysztofzuraw (https://keybase.io/krzysztofzuraw) on keybase.
-  * I have a public key with fingerprint 5F62 A282 A168 7719 6C6D  0D63 A419 70CB 6D8F 570D
+  * I have a public key ASCdYrMiok0KFV1zC0n_I6i3mtapoFDStomKCOthj_QAeQo
 
 To do so, I am signing this object:
 
 {
   "body": {
     "key": {
-      "eldest_kid": "0120942fca6da692d4981cafa79a5ea46feaf594881012d396ecbe8c4c05217379ef0a",
-      "fingerprint": "5f62a282a16877196c6d0d63a41970cb6d8f570d",
+      "eldest_kid": "01209d62b322a24d0a155d730b49ff23a8b79ad6a9a050d2b6898a08eb618ff400790a",
       "host": "keybase.io",
-      "key_id": "a41970cb6d8f570d",
-      "kid": "01011771066f4beb152df7cb3c75f8c7164f94952f022dd6d5053a76a5b655df29c20a",
+      "kid": "01209d62b322a24d0a155d730b49ff23a8b79ad6a9a050d2b6898a08eb618ff400790a",
       "uid": "b8f19b0959c4d649dbc53c2529ef4d19",
       "username": "krzysztofzuraw"
     },
     "merkle_root": {
-      "ctime": 1509866720,
-      "hash_meta": "58e101b96669f536895195ddf7eadcc048af8c86862a561ed61eae279b7550ab",
-      "seqno": 1667998
-    },
-    "revoke": {
-      "sig_ids": [
-        "d3cc60c38ef3a8ae93fac120110897856ec73181395d478fc8c169cb642644500f"
-      ]
+      "ctime": 1512855832,
+      "hash": "60709e570a371ae0f7901094c218b50f7010f894ffeb4dd0fcbf765826f16dc9a8aec2d4b2d1e540aee648407dd97a23410e36d4edf6c770aeb963ddb90704ce",
+      "hash_meta": "4b2323c77ae94a13a3b72fa00896be0dcec67205978a7f92b6dc29a3e40acbd1",
+      "seqno": 1796392
     },
     "service": {
       "hostname": "krzysztofzuraw.com",
@@ -38,51 +32,22 @@ To do so, I am signing this object:
     "type": "web_service_binding",
     "version": 1
   },
-  "ctime": 1509866942,
-  "expire_in": 157680000,
-  "prev": "4afc02321f104a698930ffcf1899d7298343eacd79f29d9567e76f36697b4a4f",
-  "seqno": 39,
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.37"
+  },
+  "ctime": 1512855851,
+  "expire_in": 504576000,
+  "prev": "cb15868ab03580237cc36e9d9b358b185da575cfa08493e91c832626ee1257d5",
+  "seqno": 44,
   "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.76
-Comment: https://keybase.io/crypto
-
-yMQEAnicbVNpbBVVGH3FIvYV0oIVKFiVsSiYLrPemfssXcK++KgEBAv4uHPn3nZo
-35vnzOveshRtWiJpUUNoWcNiIUY0QGkiBQqIBuEHScO+uiBCUKzUWpTFO43EmDDJ
-ZDIz5zvfOef77leDnvJ4o7Ylhk8EG+YOijpxpKbY8/bDAwcrOd0yyjlfJVdI+h6k
-yCBOJFBoGpyP4wWRh7JIMQIGAlA0ZKgJGFGkQqQQJANKEFWgrGkCgxoSBATrRMMy
-5hVRUCUVEsojLoWjZiif2GHbDEUYrUKBiERNRALQVFWAAAODN4CEZAGqPNaBoVFF
-5Q1WWGA5bgUTpyOHpJkW+8ZeAn3ynoB/rJsXBMbMA0BlneiCIhpUxbqEVYVqWBWA
-TKEMFZHyomgYwFB4RUIqQIoOFMWgIsRin+7iPjpdowLUeahALBtAhoaOFQmLisjs
-yYYAXaBD7BAKElerXVHuVEQsWlFso1KuOoULEruwiARsy4q4EeOI6QIFhYcaAKrI
-M5vIKQgESQS56WiEydchAABSRQIaVASoGMwAQQbGvKwh5kEDGgtRAQIx2I2IqEJd
-VRQe6UyNQ94NWawDY4dQYwpsUmIVEre5Y+az8BzON58zJIwBjyWNUAlpiECJIswm
-Lgi8BlVNYcNUJUETJNZdVjWKNSwAyOKWRSDLCs9TbmG128wuMXEfuTutJ6aQhq0g
-0xW2rYiFrSL2vyASCTs+N51IedgtKCV64F+qgG6GDLYxrKKE2I5phZgXhvx/cGwx
-UzhSFjZtEjBdhKICjWeX24eUMEoZUcyLkihQgZfZ/mpQ4inFVNAgNFQRapIsEYQN
-FbKJG1ABKlEBlRi1qstIpv8lKUGmE+UzTpZfCEWKbcJVHzm8INoT5fU83b+fe5Q8
-3pj4xwfMWRT3ECjL7nQU7kzO2DXfnLDiesWWxNz8+LsLcirvpaW3xf+45FFufV1k
-S/bfjb5rD8be4dBK/3NN20dvb79+vqV0x28HkhcvW7MkM/z+RUAv/1TbuzIWF181
-Du7szjzrP9HTfNnfcGSONX7gmHP3j81e11q5MLbHdz/P/qTzRTV18+zGjJLshpya
-+qPDhtTHVky6ceOvR+PTb6b2Bg77mz4cevfW5n3508yxNd3epkjrgyY9+MHYl97j
-h2Rs/NkzZfrpTR0dE9bVNm75YdTVhNXbzu7sivq8bDfK89eP23q3+fR9M7FlY1u/
-579ODuqJHXbmqFUXuvw9dWVLB09cL7/TPXp41q3wxby3qkh5SurxPZvSStvX7m3v
-nDlllrSjLb299nf/ome+P/+reDP72Us4+9BJtfSA0FxWdGXy8tx9l7oyXr057LX0
-lmm+xpxftlclN6eMj96TtOKat26/M4sGe5d/2j3ulBfGT50HO3fNsOpi/HUbkkZU
-tSV982dC97nUvQPO4pGD1wyYMDHv2MujHoQLRsS83rB+9cYdu789Obw14/rImV3V
-rfs8Z8yCrLihH23dcHvOnRcSepPeWPpm/11nmhrm1M87mqDyjy5kJU+amjk/dtb0
-ztLvzt+LyZx96UL0leOvrAx9llU993b6qbho7/Qvh9esLVpsLz3UcLpkYO0XnWMa
-P96k9TjpM1ZNrtr/x9A4kNvyD8dNANA=
-=OvqV
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgnWKzIqJNChVdcwtJ/yOot5rWqaBQ0raJigjrYY/0AHkKp3BheWxvYWTFA1F7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOWQ2MmIzMjJhMjRkMGExNTVkNzMwYjQ5ZmYyM2E4Yjc5YWQ2YTlhMDUwZDJiNjg5OGEwOGViNjE4ZmY0MDA3OTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOWQ2MmIzMjJhMjRkMGExNTVkNzMwYjQ5ZmYyM2E4Yjc5YWQ2YTlhMDUwZDJiNjg5OGEwOGViNjE4ZmY0MDA3OTBhIiwidWlkIjoiYjhmMTliMDk1OWM0ZDY0OWRiYzUzYzI1MjllZjRkMTkiLCJ1c2VybmFtZSI6ImtyenlzenRvZnp1cmF3In0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTEyODU1ODMyLCJoYXNoIjoiNjA3MDllNTcwYTM3MWFlMGY3OTAxMDk0YzIxOGI1MGY3MDEwZjg5NGZmZWI0ZGQwZmNiZjc2NTgyNmYxNmRjOWE4YWVjMmQ0YjJkMWU1NDBhZWU2NDg0MDdkZDk3YTIzNDEwZTM2ZDRlZGY2Yzc3MGFlYjk2M2RkYjkwNzA0Y2UiLCJoYXNoX21ldGEiOiI0YjIzMjNjNzdhZTk0YTEzYTNiNzJmYTAwODk2YmUwZGNlYzY3MjA1OTc4YTdmOTJiNmRjMjlhM2U0MGFjYmQxIiwic2Vxbm8iOjE3OTYzOTJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoia3J6eXN6dG9menVyYXcuY29tIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzcifSwiY3RpbWUiOjE1MTI4NTU4NTEsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiY2IxNTg2OGFiMDM1ODAyMzdjYzM2ZTlkOWIzNThiMTg1ZGE1NzVjZmEwODQ5M2U5MWM4MzI2MjZlZTEyNTdkNSIsInNlcW5vIjo0NCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDK3HJguIlHUKkq6w/1WeRevlMoIy+xHh9cnpRm3PjaMSSHX1vvXQ7XQu1KlSehP8s2vCjkC8DYzgm4JQ47HiwPqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgEE0Vqe7pC1Q0Rqw774sDH+i56Ie5SIyvC6JXXjDTUFqjdGFnzQICp3ZlcnNpb24B
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
 View my publicly-auditable identity here: https://keybase.io/krzysztofzuraw
-
-==================================================================
