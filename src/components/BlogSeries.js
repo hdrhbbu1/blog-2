@@ -36,7 +36,7 @@ function ReadNextText(readNext) {
   return (
     <span>
       {' '}
-      Read <Link to={readNext}>next</Link> part
+      Read <Link to={readNext}>next</Link> part.
     </span>
   )
 }
@@ -45,7 +45,7 @@ function ReadPrevText(readPrev) {
   return (
     <span>
       {' '}
-      or go <Link to={readPrev}>back</Link> to previous one
+      Go <Link to={readPrev}>back</Link> to previous one.
     </span>
   )
 }
