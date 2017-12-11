@@ -1,5 +1,5 @@
 import React from 'react'
-
+import Link from 'gatsby-link'
 import { rhythm } from '../utils/typography'
 
 function BlogSeries(props) {
@@ -11,18 +11,42 @@ function BlogSeries(props) {
     return null
   }
   if (readNext !== null) {
-    nextText = 'You can read next post'
+    nextText = ReadNextText(readNext)
   }
   if (readPrev !== null) {
-    prevText = 'You can go back to previous post'
+    prevText = ReadPrevText(readPrev)
   }
 
   return (
-    <div>
+    <h4
+      style={{
+        display: 'block',
+        marginBottom: rhythm(1),
+        marginTop: 0,
+      }}
+    >
       This blog post is part of series.
       {nextText}
       {prevText}
-    </div>
+    </h4>
+  )
+}
+
+function ReadNextText(readNext) {
+  return (
+    <span>
+      {' '}
+      Read <Link to={readNext}>next</Link> part
+    </span>
+  )
+}
+
+function ReadPrevText(readPrev) {
+  return (
+    <span>
+      {' '}
+      or go <Link to={readPrev}>back</Link> to previous one
+    </span>
   )
 }
 
