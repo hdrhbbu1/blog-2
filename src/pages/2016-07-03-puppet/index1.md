@@ -5,6 +5,7 @@ path: '/blog/2016/django-application-puppet-part-two.html'
 tags: 
   - django
   - puppet
+readPrev: '/blog/2016/django-application-puppet-part-one.html'
 ---
 
 **I end first post at the moment of pulling code from git. This text is

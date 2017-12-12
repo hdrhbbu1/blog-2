@@ -6,6 +6,8 @@ tags:
     - python
     - design
     - contracts
+readPrev: '/blog/2016/design-by-contract-in-python-part-one.html'
+readNext: '/blog/2016/design-by-contract-in-python-part-three.html'
 ---
 
 **Last time I wrote about py.contracts- today is the time for another

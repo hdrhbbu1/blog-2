@@ -6,6 +6,7 @@ tags:
     - django
     - python
     - design_patterns
+readPrev: '/blog/2016/ports-and-adapters-in-python-part-two.html'
 ---
 
 **Next part of my application will be module for saving links to read

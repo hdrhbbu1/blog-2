@@ -6,6 +6,7 @@ tags:
     - python
     - design
     - contracts
+readNext: '/blog/2016/design-by-contract-in-python-part-two.html'
 ---
 
 **What exactly is design by contract? What is good and what is bad in

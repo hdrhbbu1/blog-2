@@ -6,6 +6,8 @@ tags:
     - django
     - celery
     - rabbit
+readNext: '/blog/2016/django-celery-rabbit-part-four.html'
+readPrev: '/blog/2016/django-celery-rabbit-part-two.html'
 ---
 
 **This is a third part of Celery and RabbitMQ in Django series. Today I

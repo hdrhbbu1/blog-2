@@ -6,6 +6,8 @@ tags:
     - django
     - celery
     - rabbit
+readNext: '/blog/2016/django-celery-rabbit-part-three.html'
+readPrev: '/blog/2016/django-celery-rabbit-part-one.html'
 ---
 
 **Hello, today post is the second one in series about Celery in Django.

@@ -5,6 +5,7 @@ path: '/blog/2016/django-application-puppet-part-one.html'
 tags: 
   - django
   - puppet
+readNext: '/blog/2016/django-application-puppet-part-two.html'
 ---
 
 **This post is a quick tutorial how to provision geodjango application
