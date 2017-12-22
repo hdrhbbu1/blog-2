@@ -5,6 +5,8 @@ path: '/blog/2016/transcoding-aws-part-two.html'
 tags:
     - django
     - aws
+readNext: '/blog/2016/transcoding-aws-part-three.html'
+readPrev: '/blog/2016/transcoding-aws-part-one.html'
 ---
 
 **As I have static and media files integrated with AWS now it's time to

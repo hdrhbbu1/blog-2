@@ -5,6 +5,7 @@ path: '/blog/2016/python-webdav-part-two.html'
 tags: 
     - python
     - webdav
+readPrev: '/blog/2016/python-webdav-part-one.html'
 ---
 
 **In the last post, I set up owncloud with WebDAV server. Now it's time

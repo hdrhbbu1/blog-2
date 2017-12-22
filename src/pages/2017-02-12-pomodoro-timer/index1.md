@@ -5,6 +5,8 @@ path: '/blog/2017/pomodoro-timer-counting.html'
 tags: 
     - javascript
     - pomodoro technique
+readNext: '/blog/2017/pomodoro-timer-notifications.html'
+readPrev: '/blog/2017/pomodoro-timer-beginning.html'
 ---
 
 **Welcome to today's blog post! This blog post will be about

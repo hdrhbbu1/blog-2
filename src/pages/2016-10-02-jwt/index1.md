@@ -6,6 +6,8 @@ tags:
     - python
     - django
     - jwt
+readNext: '/blog/2016/jwt-in-django-application-part-three.html'
+readPrev: '/blog/2016jwt-in-django-application-part-one.html'
 ---
 
 **In this blog post, I will deal with creating simple Django application
