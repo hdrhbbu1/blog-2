@@ -6,6 +6,7 @@ tags:
     - pelican
     - jekyll
     - nikola
+readNext: '/blog/2016/automatic-blog-deployment-with-travis.html'
 ---
 
 **Hello! Spring has come so I decided that I need to changes- so I

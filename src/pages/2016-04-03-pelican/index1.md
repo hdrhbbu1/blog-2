@@ -6,6 +6,7 @@ tags:
   - pelican
   - travis
   - automation
+prev: '/blog/2016/moving-blog-to-pelican.html'
 ---
 
 **Hello! Today I will write about how to automate blog deployment
@@ -14,14 +15,14 @@ using** [TravisCI](https://travis-ci.org/) **with bash scripts**.
 When I first started writing blog using pelican my workflow look as
 follows:
 
-1.  I open one terminal window and go under `output` just for serving
+1. I open one terminal window and go under `output` just for serving
     static files using `python -m SimpleHTTPServer`
-2.  Then I open another terminal and if I wanted to generate my changes
+2. Then I open another terminal and if I wanted to generate my changes
     in the post I have to do
     `pelican content -s pelicanconf.py -t  pelican-clean-blog`
-3.  After this I open my browser window and go to `127.0.0.1:8000` to
+3. After this I open my browser window and go to `127.0.0.1:8000` to
     see my changes
-4.  To publish content I push it to responsible branch
+4. To publish content I push it to responsible branch
 
 After some time, I know that there must be the way to automate such
 boring stuff. So I started looking around my pelican folder and I found

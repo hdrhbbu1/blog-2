@@ -1,11 +1,12 @@
 ---
 title: Django + Celery & Rabbit - part four
 date: '2016-03-19T10:20Z'
-path: '/blog/2017/django-celery-rabbit-part-four.html'
+path: '/blog/2016/django-celery-rabbit-part-four.html'
 tags: 
     - django
     - celery
     - rabbit
+readPrev: '/blog/2016/django-celery-rabbit-part-three.html'
 ---
 
 **This is the fourth part of Celery and RabbitMQ in Django series. Today

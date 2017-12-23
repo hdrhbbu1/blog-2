@@ -5,6 +5,7 @@ path: '/blog/2016/transcoding-aws-part-one.html'
 tags:
     - django
     - aws
+readNext: '/blog/2016/transcoding-aws-part-two.html'
 ---
 
 **Nowadays moving everything to the cloud becomes more and more popular.

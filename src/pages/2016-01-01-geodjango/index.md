@@ -5,6 +5,7 @@ path: "/blog/2016/geodjango-leaflet-part-one.html"
 tags: 
     - django 
     - leaflet.js
+readNext: '/blog/2016/geodjango-leaflet-part-one.html'
 ---
 
 **Today is the day, when I will start my blog. I would like to publish

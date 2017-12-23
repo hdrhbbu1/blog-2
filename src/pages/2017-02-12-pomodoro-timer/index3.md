@@ -5,6 +5,8 @@ path: '/blog/2017/pomodoro-timer-breaks-localstorage.html'
 tags: 
     - javascript
     - pomodoro technique
+readNext: '/blog/2017/pomodoro-timer-how-good-was-your-pomodoro.html'
+readPrev: '/blog/2017/pomodoro-timer-notifications.html'
 ---
 
 **Hello! In today blog post I will write what I learn during this week

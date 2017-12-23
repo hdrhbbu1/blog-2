@@ -5,6 +5,8 @@ path: '/blog/2017/transcoding-aws-part-four.html'
 tags:
     - django
     - aws
+readNext: '/blog/2016/transcoding-aws-part-five.html'
+readPrev: '/blog/2016/transcoding-aws-part-three.html'
 ---
 
 **As I have my transcoder up and running now it's time to let user know

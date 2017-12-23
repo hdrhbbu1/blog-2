@@ -5,6 +5,7 @@ path: '/blog/2017/transcoding-aws-part-five.html'
 tags:
     - django
     - aws
+readPrev: '/blog/2016/transcoding-aws-part-four.html'
 ---
 
 

@@ -6,6 +6,7 @@ tags:
     - python
     - design
     - contracts
+readPrev: '/blog/2016/design-by-contract-in-python-part-two.html'
 ---
 
 **I covered py.contracts and zope.interface, now it's time to write

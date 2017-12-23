@@ -5,6 +5,7 @@ path: '/blog/2017/building-application-using-google-maps-api.html'
 tags: 
     - javascript
     - google maps
+readNext: '/blog/2017/all-roads-lead-to.html'
 ---
 
 **This blog post will be about my failure. Failure to understand how

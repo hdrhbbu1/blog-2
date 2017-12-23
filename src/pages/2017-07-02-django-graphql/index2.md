@@ -6,6 +6,8 @@ tags:
     - django
     - python
     - graphql
+readNext: '/blog/2017/moving-to-relay-in-django-backend.html'
+readPrev: '/blog/2017/django-graphql-react-part-two.html'
 ---
 
 **Hello! Today I will guide you through setting up React application

@@ -6,6 +6,7 @@ tags:
     - python
     - django
     - jwt
+readPrev: '/blog/2016jwt-in-django-application-part-three.html'
 ---
 
 **When I started this series I have got one comment from my co-worker

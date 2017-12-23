@@ -7,6 +7,7 @@ tags:
     - nginx
     - python
     - proxy
+readNext: '/blog/2017/django-nginx-file-proxy-part-two.html'
 ---
 
 **In this blog post series, I will show you how to use Nginx for hiding

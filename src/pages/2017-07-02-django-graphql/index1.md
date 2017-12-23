@@ -6,6 +6,8 @@ tags:
     - django
     - python
     - graphql
+readNext: '/blog/2017/monorepo-structure.html'
+readPrev: '/blog/2017/django-graphql-react-part-one.html'
 ---
 
 

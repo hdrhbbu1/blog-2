@@ -6,6 +6,7 @@ tags:
     - django
     - elasticsearch
     - haystack
+readNext: '/blog/2016/haystack-elasticsearch-part-two.html'
 ---
 
 **Hello! Today blog post is about** [Django

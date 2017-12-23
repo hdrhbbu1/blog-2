@@ -8,6 +8,8 @@ tags:
     - graphql
     - relay
     - javascript
+readNext: '/blog/2017/fragments-queries-in-relay-modern.html'
+readPrev: '/blog/2017/moving-to-relay-in-django-backend.html'
 ---
 
 **Hello, for such long break I'm back to the Django, React & Relay tutorial! Today I will show you

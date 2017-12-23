@@ -5,6 +5,8 @@ path: '/blog/2017/pomodoro-timer-notifications.html'
 tags: 
     - javascript
     - pomodoro technique
+readNext: '/blog/2017/pomodoro-timer-breaks-localstorage.html'
+readPrev: '/blog/2017/pomodoro-timer-counting.html'
 ---
 
 **Welcome! Today I will focus on notifications in JavaScript. Let's

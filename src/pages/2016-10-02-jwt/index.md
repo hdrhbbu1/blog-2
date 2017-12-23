@@ -6,6 +6,7 @@ tags:
     - python
     - django
     - jwt
+readNext: '/blog/2016/jwt-in-django-application-part-two.html'
 ---
 
 **Recently I attended a workshop about web security. During these hours

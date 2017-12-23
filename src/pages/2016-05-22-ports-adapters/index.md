@@ -6,6 +6,7 @@ tags:
     - django
     - python
     - design_patterns
+readNext: '/blog/2016/ports-and-adapters-in-python-part-two.html'
 ---
 
 **Welcome! Today I'm going to start series about how to use port and

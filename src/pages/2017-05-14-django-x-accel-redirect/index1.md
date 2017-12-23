@@ -7,6 +7,7 @@ tags:
     - nginx
     - python
     - proxy
+readPrev: '/blog/2017/django-nginx-file-proxy-part-one.html'
 ---
 
 **You have our application up and running but there is a problem. You

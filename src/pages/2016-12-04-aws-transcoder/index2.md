@@ -5,6 +5,8 @@ path: '/blog/2016/transcoding-aws-part-three.html'
 tags:
     - django
     - aws
+readNext: '/blog/2016/transcoding-aws-part-four.html'
+readPrev: '/blog/2016/transcoding-aws-part-two.html'
 ---
 
 **I've ran transcoder from django application using AWS python API. But

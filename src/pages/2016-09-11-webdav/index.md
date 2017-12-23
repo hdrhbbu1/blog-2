@@ -5,6 +5,7 @@ path: '/blog/2016/python-webdav-part-one.html'
 tags: 
     - webdav
     - python
+readNext: '/blog/2016/python-webdav-part-two.html'
 ---
 
 **I must confess I was ignorant. Recently I saw an application done by

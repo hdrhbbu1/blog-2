@@ -5,6 +5,7 @@ path: "/blog/2016/geodjango-leaflet-part-two.html"
 tags: 
     - django
     - leaflet.js
+readPrev: "/blog/2016/geodjango-leaflet-part-one.html"
 ---
 
 **This is the second post from GeoDjango i Leaflet.js series. You can
