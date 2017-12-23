@@ -6,6 +6,8 @@ tags:
     - django
     - python
     - graphql
+readNext: '/blog/2017/setting-up-relay-modern-on-fe.html'
+readPrev: '/blog/2017/monorepo-structure.html'
 ---
 
 **Today I want to talk a little bit more about my next step in

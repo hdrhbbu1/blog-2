@@ -5,6 +5,7 @@ path: '/blog/2017/all-roads-lead-to.html'
 tags: 
     - javascript
     - google maps
+readNext: '/blog/2017/building-application-using-google-maps-api.html'
 ---
 
 **All of us know this saying -** all roads lead to Rome. **After taking

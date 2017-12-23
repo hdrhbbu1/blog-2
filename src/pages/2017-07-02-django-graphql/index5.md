@@ -6,6 +6,7 @@ tags:
     - graphql
     - relay
     - javascript
+readPrev: '/blog/2017/setting-up-relay-modern-on-fe.html'
 ---
 
 **Today I want to cover two points: how to use fragments in relay modern and one of the ways of handling
