@@ -1,6 +1,6 @@
 ---
 title: Testing django template tags
-date: '2017-04-23T10:00'
+date: '2017-04-23T22:12:03.284Z'
 path: '/blog/2017/how-to-test-django-template-tags.html'
 tags: 
     - testing

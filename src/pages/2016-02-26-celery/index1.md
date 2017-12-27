@@ -1,6 +1,6 @@
 ---
 title: Django + Celery & Rabbit - part two
-date: '2016-03-05T10:20'
+date: '2016-03-05T22:12:03.284Z'
 path: '/blog/2016/django-celery-rabbit-part-two.html'
 tags: 
     - django
